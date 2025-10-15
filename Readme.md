@@ -1,7 +1,7 @@
 # Agentic AI Financial Analysis System
 
 ### Final Project – Advanced AI Program (AAI)
-**Team Members:** Laxminag Mamillapalli, Sunil Prasath
+**Team Members:** Laxminag Mamillapalli
 **Group:** No 13 AAI-520
 
 
